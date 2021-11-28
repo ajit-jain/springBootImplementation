@@ -10,5 +10,7 @@ NextPermutation domain project is a microservice which exposes 2 apis. One is /h
 ## How to run the application
 Through STS, there is an option to run the project through which we can start the application.
 
+## How to run test cases
+Through STS, right click the test file and run as JUnit test.
 
 Happy Coding!
